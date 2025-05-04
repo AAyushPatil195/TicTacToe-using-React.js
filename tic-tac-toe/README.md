@@ -52,9 +52,9 @@ src/
    ```
    Open http://localhost:3000 in your browser.
 
-📌 Future Improvements
-🔄 Add player vs computer mode with basic AI
+## 📌 Future Improvements
+ - 🔄 Add player vs computer mode with basic AI
 
-🎨 Add themes or animations
+- 🎨 Add themes or animations
 
-📱 Improve mobile responsiveness
+- 📱 Improve mobile responsiveness
