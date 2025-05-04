@@ -2,6 +2,13 @@
 
 A classic **Tic-Tac-Toe** game built using **React.js**, featuring intuitive gameplay, simple state management, and automatic winner/tie detection. This project demonstrates the use of React hooks and conditional rendering to create an interactive and responsive game experience.
 
+## 📸 Screenshot
+
+- ![image](https://github.com/user-attachments/assets/f467218a-026a-4926-b9dd-4997d49d42a0)
+- ![image](https://github.com/user-attachments/assets/82bac926-fe6d-402c-b2ad-80fe3607f6a8)
+
+
+
 ## ✨ Features
 
 - 🧠 Winner detection logic
@@ -10,10 +17,6 @@ A classic **Tic-Tac-Toe** game built using **React.js**, featuring intuitive gam
 - ⚛️ Built with React functional components and hooks
 - 🎨 Clean and minimal UI
 - 🧪 Self-contained, no backend needed
-
-## 📸 Screenshot
-
-> *(Add a screenshot of the app running here if available)*
 
 ## 🛠 Tech Stack
 
